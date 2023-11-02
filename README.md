@@ -1,6 +1,6 @@
 # Welcome to Ayush Kshirsagar's Java Developer Portfolio
 
-![Java Developer Banner](https://ibb.co/yNvF3Rn)
+![Among us Banner](https://i.ibb.co/K54x1Gj/Amongus-GIF-AMONGUS-Discover-Share-GIFs.gif)
 
 ## About Me
 
