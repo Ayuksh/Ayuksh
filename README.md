@@ -1,6 +1,6 @@
 # Welcome to Ayush Kshirsagar's Java Developer Portfolio
 
-![Java Developer Banner](https://youtu.be/ccCHmSudGdI?si=68Shp3X9qpCB9U4c)
+![Java Developer Banner](https://ibb.co/yNvF3Rn)
 
 ## About Me
 
