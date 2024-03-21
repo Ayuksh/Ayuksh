@@ -8,10 +8,10 @@ Hello, I'm Ayush Kshirsagar, a passionate Java developer with a strong foundatio
 
 ## 🔧 My Skills
 
-- **Languages:** Java, SQL
-- **Frameworks:** Spring Boot
-- **Tools:** Git, Maven, IntelliJ IDEA
-- **Database:** MySQL, PostgreSQL
+- **Languages:** Java, SQL , Javascript
+- **Frameworks:** Spring Boot , Thymeleaf , JDBC , Hibernate , Spring MVC , Spring JPA , Spring security , TestNG 
+- **Tools:** Git, Maven, IntelliJ IDEA , Eclipes , Worknbench
+- **Database:** MySQL, PostgreSQL , mongodb
 
 ## 🚀 What I'm Working On
 
